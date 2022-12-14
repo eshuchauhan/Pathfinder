@@ -1,4 +1,3 @@
-// Created By Ish Kumar
 onload = function () {
     let curr_data,V,src,dst;
 
